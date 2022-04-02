@@ -22,5 +22,8 @@
   ],
   "devDependencies": {
     "prettier": "^2.5.1"
+  },
+  "dependencies": {
+    "require-at": "^1.0.6"
   }
 }
